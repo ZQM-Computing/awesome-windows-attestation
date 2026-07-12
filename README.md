@@ -17,7 +17,7 @@ list collects the tools, libraries, and methodology that make that real.
 - [Methodology & reading](#methodology--reading)
 
 ## Windows-native attestation
-- [zqm-attestation-toolkit](https://github.com/ZQM-Computing/zqm-attestation-toolkit) — Forensic PowerShell suite producing CMS-signed, SHA256-anchored machine-health reports. Independent 2nd-method verification discipline. *(Maintained by ZQM-Computing.)*
+- [zqm-attestation-toolkit](https://github.com/ZQM-Labs/zqm-attestation-toolkit) — Forensic PowerShell suite producing CMS-signed, SHA256-anchored machine-health reports. Independent 2nd-method verification discipline. *(Maintained by ZQM-Computing.)*
 - [zqm-public-tools](https://github.com/ZQM-Computing/zqm-public-tools) — Sanitized PowerShell helpers for Windows attestation (safe subset of the toolkit).
 - [zqm-security-policy](https://github.com/ZQM-Computing/zqm-security-policy) — Baseline Windows endpoint posture rules (policy-as-code).
 
@@ -37,7 +37,7 @@ list collects the tools, libraries, and methodology that make that real.
 - [awesome-incident-response](https://github.com/meirwah/awesome-incident-response) — Curated incident-response tooling.
 
 ## Post-quantum readiness
-- [zqm-pqc-readiness-toolkit](https://github.com/ZQM-Computing/pqc-readiness-toolkit) — NIST/ETSI/CNSA 2.0 post-quantum readiness for Windows fleets. *(Maintained by ZQM-Computing.)*
+- [zqm-pqc-readiness-toolkit](https://github.com/ZQM-Labs/pqc-readiness-toolkit) — NIST/ETSI/CNSA 2.0 post-quantum readiness for Windows fleets. *(Maintained by ZQM-Computing.)*
 - [cloudflare/circl](https://github.com/cloudflare/circl) — Interoperable reusable cryptographic library (PQ algorithms).
 - [bcgit/bc-csharp](https://github.com/bcgit/bc-csharp) — BouncyCastle.NET cryptography (PQ-capable).
 
